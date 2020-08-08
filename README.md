@@ -1,13 +1,13 @@
 # R6SUnlockAll-Internal
-# Patchless unlock all for R6S
-# You'll need to turn off battleye
+### Patchless unlock all for R6S
+### You'll need to turn off battleye
 
-# add "/belaunch -be" on launcher (Steam & Uplay)
+### add "/belaunch -be" on launcher (Steam & Uplay)
 
-# You will need your own method of injecting to use this online.
+### You will need your own method of injecting to use this online.
 
-# Credits:
-# weak1337 for posting original unlock all code
+### Credits:
+### weak1337 for posting original unlock all code
 
-# thepj120 for writing the original patchless unlock all code.
-# Last update 1 August 2020
+### thepj120 for writing the original patchless unlock all code.
+### Last update 1 August 2020

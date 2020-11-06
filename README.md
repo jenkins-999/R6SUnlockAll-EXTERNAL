@@ -1,4 +1,4 @@
-# R6SUnlockAll-Internal
+# R6SUnlockAll-EXTERNAL
 ### New Unlock all for R6S
 ### You'll need to turn off battleye
 

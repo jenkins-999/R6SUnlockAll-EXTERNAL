@@ -1,13 +1,11 @@
 # R6SUnlockAll-Internal
-### Patchless unlock all for R6S
+### New Unlock all for R6S
 ### You'll need to turn off battleye
 
 ### add "/belaunch -be" on launcher (Steam & Uplay)
 
 ### You will need your own method of injecting to use this online.
+### https://help.mjtnet.com/article/262-virtual-key-codes
 
-### Credits:
-### weak1337 for posting original unlock all code
 
-### thepj120 for writing the original patchless unlock all code.
-### Last update 19 August 2020
+### Last update 11/6/2020
